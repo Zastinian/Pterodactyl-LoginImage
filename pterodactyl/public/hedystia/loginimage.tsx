@@ -1,1 +1,1 @@
-export const loginimage = "https://hedystia.com/favicon.ico";
+export const loginimage = "https://cdn.onlinewebfonts.com/svg/img_337531.png";

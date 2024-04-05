@@ -35,11 +35,11 @@ How to place a custom logo
 Open /var/www/pterodactyl/public/hedystia/loginimage.tsx
 
 Search
-export const loginimage = "https://hedystia.com/favicon.ico";
+export const loginimage = "https://cdn.onlinewebfonts.com/svg/img_337531.png";
 
 Replace the link with the image you want as logo
 
-https://hedystia.com/favicon.ico
+https://cdn.onlinewebfonts.com/svg/img_337531.png
 
 Final commands (ONLY TESTED ON UBUNTU, MAY NOT WORK ON OTHER OPERATING SYSTEMS):
 
