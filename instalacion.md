@@ -35,11 +35,11 @@ Como poner el logo personalizado
 Abre /var/www/pterodactyl/public/hedystia/loginimage.tsx
 
 Busca
-export const loginimage = "https://cdn.discordapp.com/attachments/851919671878746112/989747075312922695/ptero1.png";
+export const loginimage = "https://hedystia.com/favicon.ico";
 
 Reemplaza el link por la imagen que quiera como logo
 
-https://cdn.discordapp.com/attachments/851919671878746112/989747075312922695/ptero1.png
+https://hedystia.com/favicon.ico
 
 Comandos finales (SÓLO PROBADOS EN UBUNTU, PUEDE QUE NO FUNCIONEN EN OTRO SISTEMA OPERATIVO):
 
